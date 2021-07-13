@@ -10,16 +10,17 @@ As a young researcher, your interest and kind citation (star) will definitely me
 
 ## Education
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/BLCU.jpeg" width = "300" height = "200"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.jpeg" width = "100" height = "100"/>
 **Sep. 2021 - Now**    
 Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
 **Ph.D. in Cyberspace Security**  
 
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.jpeg" width = "100" height = "100"/>
 **Sep. 2019 - Sep. 2021**   
 Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
 **M.S. in Computer Applications**  
 
-
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/BLCU.jpeg" width = "100" height = "100"/>
 **Sep. 2015 - Jul. 2019**   
 School of Information Science, Beijing Language and Culture University(BLCU), Beijing, China.   
 **B.S. in Computer Science and Technology**
