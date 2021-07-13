@@ -32,6 +32,13 @@ Merit Student, University of Chinese Academy of Sciences (UCAS). 2020.
 
 Excellent Student Cadre, University of Chinese Academy of Sciences (UCAS). 2020.
 
-Excellent undergraduate graduation project (Thesis), Beijing. 2019.
+Excellent Undergraduate Graduation Project (Thesis), Beijing.   
+Beijing Education Commission. 2019.
+
+National Scholarship for Undergraduates (Top 2%, RMB ¥ 8,000).  
+Ministry of Education of P.R. China. 2018.
+
+National Scholarship for Undergraduates (Top 2%, RMB ¥ 8,000).  
+Ministry of Education of P.R. China. 2017.
 
 
