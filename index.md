@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-img{
-    max-width: 100%;
-    height: auto;
-}
 
 ## Biography
 
