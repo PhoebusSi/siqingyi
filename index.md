@@ -2,122 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Biography
 
-There should be whitespace between paragraphs.
+Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, focusing on machine learning for natural language.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators.
 
-# Header 1
+# Publications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Qingyi Si**, Zheng Lin, Mingyu Zheng, Peng Fu, Weiping Wang. **Check It Again: Progressive Visual Question Answering via Visual Entailment**. The 59th Annual Meeting of the Association for Computational Linguistics (**ACL’2021**, Main Conference). Bangkok, Thailand. August, 2021.
 
-## Header 2
+**Qingyi Si**, Yuanxin Liu, Peng Fu, Zheng Lin, Jiangnan Li, Weiping Wang. **Learning Class-Transductive Intent Representations for Zero-shot Intent Detection**. The 30th International Joint Conference on Artificial Intelligence (**IJCAI'2021**). Montreal,
+Canada. August, 2021.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Ran Li, **Qingyi Si**, Peng Fu, Zheng Lin, Weiping Wang and Gang Shi. **A Multi-channel Neural Network for Imbalanced Emotion Recognition**. The 31th International Conference on Tools with Artificial Intelligence(**ICTAI'2019**). Portland, United State. October, 2019.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Chunhua Liu, Yan Zhao, **Qingyi Si**, Haiou Zhang, Bohan Li, Dong Yu. **Multi-perspective fusion network for commonsense reading comprehension**. The 17th China National Conference on Computational Linguistics(**CCL'2018**). Changsha, China. October, 2018.
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Working Experience
+**July.2018-Februry.2019**
+Research Intern in the AI application incubator Department at Meituan
+*Beijing, China*
