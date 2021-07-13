@@ -8,6 +8,22 @@ layout: default
 Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, focusing on **visual question answering and zero/few-shot learning**.   
 As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators.
 
+## Education
+
+**Sep. 2021 - Now**    
+Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
+**Ph.D. in Cyberspace Security**  
+
+**Sep. 2019 - Sep. 2021**   
+Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
+**M.S. in Computer Applications**  
+
+
+**Sep. 2015 - Jul. 2019**   
+School of Information Science, Beijing Language and Culture University(BLCU), Beijing, China.   
+**B.S. in Computer Science and Technology**
+
+
 ## Publications
 
 **Qingyi Si**, Zheng Lin, Mingyu Zheng, Peng Fu, Weiping Wang. [**Check It Again: Progressive Visual Question Answering via Visual Entailment**](https://github.com/PhoebusSi/SAR). The 59th Annual Meeting of the Association for Computational Linguistics (**ACL’2021**, Main Conference).   
