@@ -37,7 +37,7 @@ Excellent Student Cadre, University of Chinese Academy of Sciences (UCAS). 2020.
 Excellent Undergraduate Graduation Project (Thesis), Beijing.   
 Education Commission of Beijing. 2019.
 
-General Higher Education Outstanding Graduate, Beijing.
+Regular Institutions of Higher Education Outstanding Graduate, Beijing.   
 Education Commission of Beijing. 2019.
 
 National Scholarship for Undergraduates (Top 2%, RMB ¥ 8,000).  
