@@ -10,7 +10,7 @@ As a young researcher, your interest and kind citation (star) will definitely me
 
 ## Education
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "70" height = "700"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "70" height = "70"/>
       **Sep. 2021 - Now**    
       Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
       **Ph.D. in Cyberspace Security**  
