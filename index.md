@@ -19,7 +19,7 @@ As a young researcher, your interest and kind citation (star) will definitely me
 &emsp;Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
 &emsp;**M.S. in Computer Applications**  
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/BLCU.png" width = "65" height = "65"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/BLCU2.png" width = "65" height = "65"/>
 &emsp;**Sep. 2015 - Jul. 2019**   
 &emsp;School of Information Science, Beijing Language and Culture University(BLCU), Beijing, China.   
 &emsp;**B.S. in Computer Science and Technology**
