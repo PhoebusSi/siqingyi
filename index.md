@@ -6,21 +6,21 @@ layout: default
 ## Biography
 
 Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, focusing on **visual question answering and zero/few-shot learning**.   
-As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators. :smile:
+As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators. 😄
 
 ## Education
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "70" height = "70"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "60" height = "60"/>
 &emsp;**Sep. 2021 - Now**    
 &emsp;Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
-&emsp;&emsp;**Ph.D. in Cyberspace Security**  
+&emsp;**Ph.D. in Cyberspace Security**  
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "70" height = "70"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "60" height = "60"/>
 &emsp;**Sep. 2019 - Sep. 2021**   
 &emsp;Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
 &emsp;**M.S. in Computer Applications**  
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/BLCU.png" width = "70" height = "70"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/BLCU.png" width = "60" height = "60"/>
 &emsp;**Sep. 2015 - Jul. 2019**   
 &emsp;School of Information Science, Beijing Language and Culture University(BLCU), Beijing, China.   
 &emsp;**B.S. in Computer Science and Technology**
@@ -42,9 +42,10 @@ Changsha, China. October, 2018.
 
 
 ## Working Experience
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/Meituan.png" width = "70" height = "70"/>
-&emsp;**July.2018-Februry.2019**, *Beijing, China*   
-&emsp;Research Intern in the AI application incubator Department at **Meituan**
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/Meituan.png" width = "60" height = "60"/>
+&emsp;**July.2018-Februry.2019**     
+&emsp;Research Intern in the AI application incubator Department at **Meituan**   
+&emsp;*Beijing, China*   
 
 ## Honors and Awards
 Merit Student, University of Chinese Academy of Sciences (UCAS). 2021.
