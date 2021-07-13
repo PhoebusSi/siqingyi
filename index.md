@@ -9,17 +9,17 @@ As a young researcher, your interest and kind citation (star) will definitely me
 
 ## Education
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "65" height = "65"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/CAS.png" width = "65" height = "65"/>
 &emsp;**Sep. 2021 - Now**    
 &emsp;Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
 &emsp;**Ph.D. in Cyberspace Security**  
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/CAS.png" width = "65" height = "65"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/CAS.png" width = "65" height = "65"/>
 &emsp;**Sep. 2019 - Sep. 2021**   
 &emsp;Institute of Information Engineering(IIE), Chinese Academy of Sciences(CAS), Beijing, China.  
 &emsp;**M.S. in Computer Applications**  
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/BLCU.png" width = "65" height = "65"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/BLCU.png" width = "65" height = "65"/>
 &emsp;**Sep. 2015 - Jul. 2019**   
 &emsp;School of Information Science, Beijing Language and Culture University(BLCU), Beijing, China.   
 &emsp;**B.S. in Computer Science and Technology**
@@ -41,7 +41,7 @@ Changsha, China. October, 2018.
 
 
 ## Working Experience
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/blob/gh-pages/assets/img/Meituan.png" width = "65" height = "65"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Meituan.png" width = "65" height = "65"/>
 &emsp;**July.2018-Februry.2019**     
 &emsp;Research Intern in the AI application incubator Department at **Meituan**   
 &emsp;*Beijing, China*   
