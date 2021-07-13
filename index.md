@@ -23,5 +23,9 @@ Chunhua Liu, Yan Zhao, **Qingyi Si**, Haiou Zhang, Bohan Li, Dong Yu. **Multi-pe
 
 # Working Experience
 **July.2018-Februry.2019**
+
+
 Research Intern in the AI application incubator Department at Meituan
+
+
 *Beijing, China*
