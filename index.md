@@ -1,3 +1,4 @@
+![image](https://github.com/PhoebusSi/siqingyi/blob/gh-pages/WechatIMG3531.jpeg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PhoebusSi/siqingyi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
