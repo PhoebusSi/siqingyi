@@ -23,7 +23,15 @@ Chunhua Liu, Yan Zhao, **Qingyi Si**, Haiou Zhang, Bohan Li, Dong Yu. **Multi-pe
 
 ## Working Experience
 **July.2018-Februry.2019**, *Beijing, China*, 
-Research Intern in the AI application incubator Department at Meituan
+Research Intern in the AI application incubator Department at **Meituan**
 
+## Honors and Awards
+Merit Student, University of Chinese Academy of Sciences (UCAS). 2021.
+
+Merit Student, University of Chinese Academy of Sciences (UCAS). 2020.
+
+Excellent Student Cadre, University of Chinese Academy of Sciences (UCAS). 2020.
+
+Excellent undergraduate graduation project (Thesis), Beijing. 2019.
 
 
