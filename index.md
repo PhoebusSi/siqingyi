@@ -47,7 +47,7 @@ Changsha, China. October, 2018.
 &emsp;*Beijing, China*   
 
 ## Honors and Awards
-National Scholarship for Doctoral students (Top 2%, RMB ¥ 30,000).
+National Scholarship for Doctoral students (Top 2%, RMB ¥ 30,000). 
 Ministry of Education of P.R. China. 2021.
 
 Merit Student, University of Chinese Academy of Sciences (UCAS). 2021.
