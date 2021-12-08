@@ -45,6 +45,8 @@ Changsha, China. October, 2018.
 &emsp;Research Intern in NLC group **Microsoft**    
 &emsp;*Beijing, China* 
 
+
+
 <img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Wechat.jpg" width = "65" height = "65"/>
 &emsp;**March.2021-November.2021**     
 &emsp;Research Intern in the Basic technology group II of Pattern Recognition Center (PRC) at **WeChat**   
