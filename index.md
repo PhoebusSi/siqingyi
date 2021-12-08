@@ -46,6 +46,16 @@ Changsha, China. October, 2018.
 &emsp;Research Intern in the AI application incubator Department at **Meituan**   
 &emsp;*Beijing, China*   
 
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Wechat.png" width = "65" height = "65"/>
+&emsp;**March.2021-November.2021**     
+&emsp;Research Intern in the Basic technology group II of Pattern recognition Center (PRC) at **WeChat**   
+&emsp;*Beijing, China*   
+
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Microsoft.png" width = "65" height = "65"/>
+&emsp;**November.2021-today**     
+&emsp;Research Intern in NLC group **Microsoft**   
+&emsp;*Beijing, China* 
+
 ## Honors and Awards
 National Scholarship for Doctoral students (Top 2%, RMB ¥ 30,000).     
 Ministry of Education of P.R. China. 2021.
