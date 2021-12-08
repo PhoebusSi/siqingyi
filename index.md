@@ -53,7 +53,7 @@ Changsha, China. October, 2018.
  
 <img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Microsoft.jpg" width = "65" height = "65"/>
 &emsp;**November.2021-today**     
-&emsp;Research Intern in NLC group **Microsoft**   
+&emsp;Research Intern in NLC group **Microsoft**    
 &emsp;*Beijing, China* 
 
 ## Honors and Awards
