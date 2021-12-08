@@ -43,15 +43,15 @@ Changsha, China. October, 2018.
 ## Working Experience
 <img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Meituan.png" width = "65" height = "65"/>
 &emsp;**July.2018-Februry.2019**     
-&emsp;Research Intern in the AI application incubator Department at   **Meituan**   
+&emsp;Research Intern in the AI application incubator Department at \ \ **Meituan**   
 &emsp;*Beijing, China*   
 
 <img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Wechat.jpg" width = "65" height = "65"/>
 &emsp;**March.2021-November.2021**     
-&emsp;Research Intern in the Basic technology group II of Pattern   Recognition Center (PRC) at **WeChat**   
+&emsp;Research Intern in the Basic technology group II of Pattern \ \ Recognition Center (PRC) at **WeChat**   
 &emsp;*Beijing, China*   
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Microsoft.jpeg" width = "65" height = "65"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Microsoft.jpeg" width = "60" height = "60"/>
 &emsp;**November.2021-today**     
 &emsp;Research Intern in NLC group **Microsoft**   
 &emsp;*Beijing, China* 
