@@ -47,9 +47,9 @@ Changsha, China. October, 2018.
 
 
 
-<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Wechat.jpg" width = "65" height = "65"/>
+<img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Tencent.jpg" width = "65" height = "65"/>
 &emsp;**March.2021-November.2021**     
-&emsp;Research Intern in the Basic technology group II of Pattern Recognition Center (PRC) at **WeChat**   
+&emsp;Research Intern in the Pattern Recognition Center (PRC), WeChat AI at **Tencent**   
 &emsp;*Beijing, China*   
 
 <img align="left" src="https://github.com/PhoebusSi/siqingyi/raw/gh-pages/assets/img/Meituan.png" width = "65" height = "65"/>
