@@ -4,7 +4,7 @@ layout: default
 
 ## Biography
 
-Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, focusing on **visual question answering and zero/few-shot learning**.   
+Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, focusing on **visual question answering, zero-shot learning and out-of-distribution problem**.   
 As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators. 😄
 
 ## Education
