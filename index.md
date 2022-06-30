@@ -33,6 +33,9 @@ Bangkok, Thailand. August, 2021.
 **Qingyi Si**, Yuanxin Liu, Peng Fu, Zheng Lin, Jiangnan Li, Weiping Wang. [**Learning Class-Transductive Intent Representations for Zero-shot Intent Detection**](https://github.com/PhoebusSi/CTIR). The 30th International Joint Conference on Artificial Intelligence (**IJCAI'2021**).   
 Montreal, Canada. August, 2021.
 
+Duo Zheng, Fandong Meng, **Qingyi Si**, Hairun Fan, Zipeng Xu, Jie Zhou, Fangxiang Feng, Xiaojie Wang. **Visual Dialog for Spotting the Differences between Pairs of Similar Images.** The 30th ACM International Conference on Multimedia (**MM'2022**).
+Lisbon, Portugal. October, 2022.
+
 Ran Li, **Qingyi Si**, Peng Fu, Zheng Lin, Weiping Wang and Gang Shi. **A Multi-channel Neural Network for Imbalanced Emotion Recognition**. The 31th International Conference on Tools with Artificial Intelligence(**ICTAI'2019**).   
 Portland, United State. October, 2019.
 
